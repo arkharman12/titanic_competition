@@ -1,1 +1,1 @@
-# titanic_competition
+# Titanic Competition in R
